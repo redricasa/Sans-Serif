@@ -8,6 +8,8 @@ My inspiration came from when I was in an intro to Ge'ez writing class and I not
 ## Technologies Used
 - HTML, CSS, JavaScript
 - CLIP STUDIO PAINT PRO
+## Challenges
+- use vanilla JS/Jquery to automate placements of 189 fidels/alphabets instead of manually writing out the HTML for each <tr> <td>
 ## TODO
 Here's an image of a rough draft of my plans to build a single page front-end website and later a Google Fonts - esque API with free Ge'ez sans-serif fonts. 
 ![a handwritten draft reflecting my concerns and general plans for the app](./Assets/Ge'ez_sans_serif.png)
